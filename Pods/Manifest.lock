@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (3.1.2)
+  - Dodo (2.0.13)
+  - Eureka (1.2.0)
+  - MonkeyKing (0.6.7)
+  - NVActivityIndicatorView (2.1)
+  - ReachabilitySwift (2.3)
+  - Refresher (0.5.0)
+  - UMengAnalytics-NO-IDFA (3.6.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - Dodo
+  - Eureka
+  - MonkeyKing
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - Refresher
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  Alamofire: 7c16ca65f3c7e681fd925fd7f2dec7747ff96855
+  Dodo: 0d783bc1f55e59d53fb698b3380ad8553079540e
+  Eureka: aa7059d2a30e1b206a581f0aabfcf903ece6beae
+  MonkeyKing: bcb9f6d038b293bcd769875cc9aad2453f636dc5
+  NVActivityIndicatorView: 84aa48f7ec1efbfd0645e9f469097d94c6f65417
+  ReachabilitySwift: 2ac9df18a443901f06caae38a9f5431219a4c36a
+  Refresher: 485f5990e6315add7f3470db5a4ca106451b11d3
+  UMengAnalytics-NO-IDFA: 279e28990a08efb56cff1821d2954bb00aa6975a
+
+COCOAPODS: 0.39.0
